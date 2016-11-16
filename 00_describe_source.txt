@@ -1,0 +1,54 @@
+Polina Gantman
+CELTA(Cambridge Certificate in Teaching English to Speakers of Other Languages, 2009).
+CPE (=9 in IELTS, Cambrige Certificate, Level C2). She' s been consulting in English in Mail.
+RuGroup for 6 years. She worked for Yandex, Ashmanov and Partners etc.
+
+Polina graduated from Moscow State University of Electronic Technologies with a MA in Translation and 
+Linguistics (2007), passed CELTA (Cambridge Certificate in Teaching English to Speakers of Other Languages,
+2009) course and successfully upgraded her skills to Proficiency Level in April 2016, CPE ( =9 in IELTS, 
+Cambrige Certificate, Level C2). She has an 8 years' experience in teaching English to various levels
+(from Beginner to Advanced) working with groups of adults or individual students in IT sector. So far she has
+taught such courses as General English, Job Interview, Technical Writing Course, Writing Business Letters, 
+Business English, Preparation for IELTs, Speaking and Grammar Course etc.
+Требования
+
+To simplify your technical English,  you have to at the very least  know the basics, meaning that
+the minimum requirement for this course is Pre-intermediate — Intermediate Level which is B1-B2 in
+Common European Framework of Reference for Languages. 
+
+Also, you have to be able to spend  3-6 hours a week watching and reading lectures and doing practice tasks.
+
+You need to be interested in technical writing for your work or/and studies. So it is good if you 
+have already encountered with some technical  English  texts. It is even better if you have already 
+tried writing something whether it was for an open source, for your own project or for your job/studies. 
+
+If you are merely a reader of APIs, tutorials and manuals, still this course is useful for you. 
+You will improve your reading skills as well since they are closely connected with Grammar, Writing, 
+Punctuation and Vocab explained on the course.
+Описание
+
+The course is fully conducted in English so you are going to improve your Listening, Reading, Vocabulary, 
+Grammar and Writing Skills.
+
+It includes theoretical information about Technical Writing, Grammar, Vocabulary and Punctuation 
+(from various reliable grammar sources and the best manuals of style) combined with a variety of 
+tasks from actual APIs and tutorials (Python, Jquery, Dropbox API, Gambit etc.)  to practice your new skills.
+
+The course starts with a test to check your command of English.
+
+Then the first part gives you a general overview of the concept of tech writing and its simplification 
+as well as vocabulary used in this particular kind of texts. Next you will dive into two extensive 
+modules on Grammar used in modern technical writing. In the last module you are going to  have some 
+input  and practice on punctuation as well as Simplified Technical English rules followed by an End-of-course Test.
+
+Additionally, every module includes a Review section which helps you to 'rotate' new concepts to boost 
+your long-term memory.
+
+It is for those who would like to learn how to write easy and comprehensible specifications to their 
+code, software, etc. according to international standards as well as for those who are only interested in reading.
+
+It gives practical and useful knowledge only; there is no information on this course which you would
+never use in real life work-related situations.
+
+So if you need technical writing for studies, work, and/or your own current or future projects, 
+the course is for you.
