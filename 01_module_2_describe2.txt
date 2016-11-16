@@ -1,8 +1,13 @@
 What is technical writing?
 
-'Technical writing' is any written form of writing or drafting technical communication used in a variety of technical and occupational fields, such as computer hardware and software, engineering, chemistry, aeronautics, robotics, finance, consumer electronics, and biotechnology. IT encompasses the largest sub-field within technical communication.
+'Technical writing' is any written form of writing or drafting technical communication used in a
+ variety of technical and occupational fields, such as computer hardware and software, engineering,
+ chemistry, aeronautics, robotics, finance, consumer electronics, and biotechnology. IT encompasses the largest 
+ sub-field within technical communication.
 
-Technical writing is sometimes defined as simplifying the complex. A significant subset of the broader field of technical communication, technical writing involves communicating complex information to those who need it to accomplish some task or goal.
+Technical writing is sometimes defined as simplifying the complex. A significant subset of the broader field 
+of technical communication, technical writing involves communicating complex information to those who need it
+to accomplish some task or goal.
 
 Some examples of technical writing include:
 
