@@ -1,15 +1,15 @@
-A pronoun is a part of speech used to ( местоимение ) 
+A pronoun is a part of speech used to ( местоимение ) - avoid repetition of a noun.
 
-A noun is a part of speech used to ( существительное ) 
+A noun is a part of speech used to ( существительное ) - name a thing or a person
 
-A verb is a part of speech used to  ( глагол )
+A verb is a part of speech used to  ( глагол ) - express action
 
-An adjective is a part of speech used to ( прилагательное ) 
+An adjective is a part of speech used to ( прилагательное ) - modify a noun or a pronoun by describing a particular quality of a noun or a pronoun they are modifying.
 
-An adverb is a part of speech used to ( наречие )
+An adverb is a part of speech used to ( наречие ) - modify a verb, other adverbs or adjectives.
 
-A conjunction is a part of speech used to ( предлог )
+A conjunction is a part of speech used to ( предлог ) - put words, phrases or parts of the sentence together.
 
-A preposition is a part of speech used to ( союз )
+A preposition is a part of speech used to ( союз ) - show the relationship between a noun or pronoun and another part of a sentence.
 
 
